@@ -12,25 +12,23 @@
 
 <br><br>
 
-- :school: I am a `Post-graduate` at University "L'Orientale" di Napoli, Italy.
+- :school: I am a `Postgraduate` at University "L'Orientale" di Napoli, Italy.
 - :trophy: Master Thesis in `Computational Linguistics`.
-- :technologist: I enjoy solving problems using Machine Learning and Data Science.
+- :technologist: I enjoy solving problems using `Machine Learning` and Data Science.
+- :brain: I love exploring how `Languages` work and evolve.
+- :student: Passionate about `NLP`, `Machine Translation` and `AI`.
 - :computer: I have experience in `Python`, `R`, and `Java` programming.
-- :student: My interests include `NLP`, `Machine Translation` and `AI`.
 
 <br>
 
 
 ## 🧑🏻‍💻 **Connect with me**:
 
-<p align="center">
-		
+<a href="mailto:a.castaldo19@studenti.unior.it">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/antonio-castaldo/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.facebook.com/ancastal2/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
-	![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-	
-</p>
-
-
+<br>
 
 ## 🛠️ My Skills
 
@@ -44,7 +42,6 @@
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <br>   
 
 &emsp; 
