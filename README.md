@@ -27,11 +27,10 @@
 <br><br>
 
 - :school: I am a `Post-graduate` at University "L'Orientale" di Napoli, Italy.
-- :trophy: Master Thesis in `Computational Linguistics`, evaluating the effectiveness of state-of-the-art machine translation for literary works.
+- :trophy: Master Thesis in `Computational Linguistics`.
 - :technologist: I enjoy solving problems using Machine Learning and Data Science.
 - :computer: I have experience in `Python`, `R`, and `Java` programming and have competed in Kaggle competitions.
-- :student: My interests include `Natural Language Processing`, `Machine Learning`, and `Data Science`.
-- :nerd_face: I enjoy attending conferences and workshops to stay up to date on the latest advancements in the field.
+- :student: My interests include `NLP`, `Machine Translation` and `AI`.
 
 <br>
 
