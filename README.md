@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :school: I am a `Graduate Student` at University "L'Orientale" di Napoli, Italy.
+- :school: I am a `Ph.D. Student` in Artificial Intelligence in Italy.
 - :trophy: Master Thesis in `Computational Linguistics`.
 - :technologist: I enjoy solving problems using `Machine Learning` and Data Science.
 - :brain: I love exploring how `Languages` work and evolve.
