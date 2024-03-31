@@ -12,11 +12,11 @@
 
 <br><br>
 
-- :school: I am a `Ph.D. Student` in Artificial Intelligence in Italy.
+- :school: I am a `Ph.D. Scholar` in Artificial Intelligence in Italy.
+- :student: Research about `NLP`, `Machine Translation` and `LLMs`.
 - :trophy: Master Thesis in `Computational Linguistics`.
 - :technologist: I enjoy solving problems using `Machine Learning` and Data Science.
 - :brain: I love exploring how `Languages` work and evolve.
-- :student: Passionate about `NLP`, `Machine Translation` and `AI`.
 - :computer: I have experience in `Python`, `R`, and `Java` programming.
 
 <br>
@@ -24,7 +24,7 @@
 
 ## 🧑🏻‍💻 **Connect with me**:
 
-<a href="mailto:a.castaldo19@studenti.unior.it">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:antonio.castaldo@phd.unipi.it">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/antonio-castaldo/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
