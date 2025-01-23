@@ -41,7 +41,7 @@
 
 <br>   
 
-## Publications
+## 🧑‍🎓 Publications
 <p align="center">
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OlfrnggAAAAJ)
