@@ -39,8 +39,7 @@
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs1D3557?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFCC4D?style=for-the-badge&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br>   
 
