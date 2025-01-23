@@ -29,7 +29,7 @@
 
 <br>
 
-## 🛠️ My Skills
+## 🛠️ Skills
 
 <p align="center">
 
