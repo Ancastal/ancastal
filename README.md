@@ -15,9 +15,9 @@
 - :school: I am a `Ph.D. Scholar` in Artificial Intelligence in Italy.
 - :student: Research about `NLP`, `Machine Translation` and `Large Language Models`.
 - :trophy: Master Thesis in `Computational Linguistics`.
-- :technologist: I enjoy solving problems using `Machine Learning` and Data Science.
+- :technologist: I enjoy solving problems using `Artificial Intelligence` and Data Science.
 - :brain: I love exploring how `Languages` work and evolve.
-- :computer: I have experience in `Python`, `R`, and `Java` programming.
+- :computer: I have experience in `Python` and `Java` programming.
 
 <br>
 
