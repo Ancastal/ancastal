@@ -33,15 +33,15 @@
 
 <p align="center">
 
-
-    
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFCC4D?style=for-the-badge&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-00A99D?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 <br>   
 
 ## Publications
+<p align="center">
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OlfrnggAAAAJ)
